@@ -21,7 +21,7 @@ H298A V9 Versiyon Routerlar için root login oluşturma yazılımı.
 - İşlemler bitene kadar bekleyin.
 - İşlemler bitince ether kabloyu tekrar ONT bağlayın otomatik güncellemeleri alacak hazır hale gelecektir.
 
-
+![Hızlı Anlatım](https://www.youtube.com/watch?v=WoL4L-Yuh0w)
 
 ![IP Config Örneği](https://github.com/gibirnet/H298A-V9-Rooter/blob/main/ip-config.jpg?raw=true)
 ![Screenshot](https://github.com/gibirnet/H298A-V9-Rooter/raw/main/screenshot_1.jpg?raw=true)
