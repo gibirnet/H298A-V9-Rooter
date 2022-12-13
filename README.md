@@ -13,14 +13,14 @@ H298A V9 Root Installer
 - Router Web Arayüzüne giriş yapıp fabrika ayarlarına döndürün
 - İşlemler bitene kadar bekleyin.
 - İşlemler bitince ether kabloyu tekrar ONT bağlayın otomatik güncellemeleri alacak hazır hale gelecektir.
-(http://url/to/img.png)
+(https://github.com/gibirnet/H298A-V9-Rooter/raw/main/screenshot_1.jpg?raw=true)
 
 # IPV6 Nasıl Aktif Edilir ?
-(http://url/to/img.png)
+(https://github.com/gibirnet/H298A-V9-Rooter/blob/main/ipv6enable.jpg?raw=true)
 
 # Credits
 [GIBIRNet internet](https://gibir.net.tr)
 
-https://github.com/olivluca/zte-digi-admin(https://github.com/olivluca/zte-digi-admin)
+[https://github.com/olivluca/zte-digi-admin](https://github.com/olivluca/zte-digi-admin)
 
 
