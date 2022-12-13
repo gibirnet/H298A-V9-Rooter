@@ -2,7 +2,9 @@
 H298A V9 Versiyon Routerlar için root login oluşturma yazılımı.
 
 # İndirme
+
 [Windows](https://github.com/gibirnet/H298A-V9-Rooter/releases/download/Release/gibirnet-h298a-v9-rooter-1.0.0.Setup.exe)
+
 [Windows Portable](https://github.com/gibirnet/H298A-V9-Rooter/releases/download/Release/gibirnet-h298a-v9-rooter-win32-x64-portable.zip)
 
 
@@ -18,6 +20,9 @@ H298A V9 Versiyon Routerlar için root login oluşturma yazılımı.
 - Router Web Arayüzüne giriş yapıp fabrika ayarlarına döndürün
 - İşlemler bitene kadar bekleyin.
 - İşlemler bitince ether kabloyu tekrar ONT bağlayın otomatik güncellemeleri alacak hazır hale gelecektir.
+
+
+
 ![IP Config Örneği](https://github.com/gibirnet/H298A-V9-Rooter/blob/main/ip-config.jpg?raw=true)
 ![Screenshot](https://github.com/gibirnet/H298A-V9-Rooter/raw/main/screenshot_1.jpg?raw=true)
 
