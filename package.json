@@ -1,0 +1,25 @@
+{
+  "name": "gibirnet-h298a-v9-rooter",
+  "version": "1.0.0",
+  "description": "Root switcher for H298A V9",
+  "main": "main.js",
+  "author": "Ahmet AK",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron-forge start",
+    "package": "electron-forge package",
+    "make": "electron-forge make"
+  },
+  "dependencies": {
+    "dhcp": "^0.2.20",
+    "electron-squirrel-startup": "^1.0.0"
+  },
+  "devDependencies": {
+    "@electron-forge/cli": "^6.0.4",
+    "@electron-forge/maker-deb": "^6.0.4",
+    "@electron-forge/maker-rpm": "^6.0.4",
+    "@electron-forge/maker-squirrel": "^6.0.4",
+    "@electron-forge/maker-zip": "^6.0.4",
+    "electron": "^22.0.0"
+  }
+}
